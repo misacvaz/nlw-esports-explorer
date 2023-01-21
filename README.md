@@ -8,12 +8,12 @@ Projeto construido No Evento Next Level Week da Rocketseat
 
 [Clique aque para acessar](https://misacvaz.github.io/nlw-esports-explorer/)
 
-## Tacnolegias
+## Technology
 
 - HTML
 - CSS
 - Git e Github
 
-## contacto
+## contact
 
 misacvaz@gmail.com
